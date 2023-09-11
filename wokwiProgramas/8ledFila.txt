@@ -1,1 +1,1 @@
-https://wokwi.com/projects/375546896809620481
+https://wokwi.com/projects/375546896809620481             #Simulacion en wokwi para encender 8 led en fila con delay
